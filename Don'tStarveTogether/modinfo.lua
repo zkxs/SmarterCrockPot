@@ -1,7 +1,7 @@
 -- This information tells other players more about the mod
-name = "SmartCrockPot"
+name = "SmartCrockPot-zkxs"
 description = "Predicts your cooking !"
-author = "Nadevill"
+author = "zkxs"
 version = "4.02"
 priority = 10
 dst_compatible = true
